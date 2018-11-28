@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 13
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Natanael Alpay, Conner Carnahan**
 
 ## Specification
 
@@ -12,9 +12,9 @@ In the `info` repository find the template directory for LaTeX. Copy the entire 
   
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+This assigment was not hard but tricky, it might not be the only/best way to do the first part, but coloning the reposetory info to cocalc and than cp to cw13 is one way to do it.
 
-**CHANGEME**
+**Natanael Alpay, Conner Carnahan**
 
 ## Honor Pledge
 
@@ -25,5 +25,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Natanael Alpay, Conner Carnahan**
 
