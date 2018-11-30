@@ -14,6 +14,8 @@ In the `info` repository find the template directory for LaTeX. Copy the entire 
 
 This assigment was not hard but tricky, it might not be the only/best way to do the first part, but coloning the reposetory info to cocalc and than cp to cw13 is one way to do it. On thing wich realy amazed me was how GOOD cocal can do latex, I have been using the emacs editor for all my latex file for almost over a year, and its great and all, BUT cntrl-c cntrl-v doesnot work there which my sound no bad but its really annoying, the fact that cocalc can do that and in addition live comyling is really great. 
 
+*in addition I had let myself to also use some of the packages that I usually use at the begining of the document such as table of content...
+
 **Natanael Alpay, Conner Carnahan**
 
 ## Honor Pledge
